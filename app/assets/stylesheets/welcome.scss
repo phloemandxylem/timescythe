@@ -1,3 +1,16 @@
 // Place all the styles related to the Welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+div { padding-left: 53px; }
+
+div.shadowbox{
+ background-image: url(https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=162411497);
+ background-repeat: no-repeat;
+ background-position: center;
+ padding: 70px 90px;
+}
+
+h1{padding-left: 35%;}
+h2{padding-left: 35%;}
+
+article.about{padding-left: 20%;}
