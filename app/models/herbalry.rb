@@ -6,4 +6,8 @@ class Herbalry
     @description = description
     @product = product
   end
+
+  def to_s
+    "Name:#{name}\nDescription:#{description}\nProduct:#{product}"
+  end
 end
